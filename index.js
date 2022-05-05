@@ -1,7 +1,8 @@
 // TODO: Include packages needed for this application
 const fs = require('fs');
 
-])
+const generatePage = require('./src/page-template');
+
 // TODO: Create an array of questions for user input
 const inquirer = require('inquirer');
     inquirer
@@ -47,9 +48,10 @@ const inquirer = require('inquirer');
         name: 'tutorials',
         message: 'Enter link for any tutorials you followed.'
     },
-    {   type: 'input',
+    {   type: 'checkbox',
         name: 'license',
-        message: ''
+        message: 'Select the type of license you are using.',
+        choices: ['MIT', 'GPLv3', 'GPL', 'N/A']
     },
     {   type: 'input',
         name: 'badges',
@@ -67,6 +69,9 @@ const inquirer = require('inquirer');
 
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {}
+fs.writeFile('index.html', )
+
+
 
 // TODO: Create a function to initialize app
 function init() {}
