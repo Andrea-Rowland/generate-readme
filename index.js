@@ -3,7 +3,7 @@ const fs = require('fs');
 const inquirer = require('inquirer');
 const path = require('path')
 const generateMarkdown = require('./utils/generateMarkdown');
-const licenses = ['None', 'MIT', 'BSD', 'GPL', 'GPLv3', 'Apache']
+const licenses = ['None', 'MIT', 'BSD', 'GPL', 'Apache']
 
 // TODO: Create an array of questions for user input
 
@@ -37,7 +37,7 @@ const questions = [
         type: 'list',
         name: 'license',
         message: 'Select the type of license you are using.',
-        choices: ['MIT', 'BSD', 'GPLv3', 'GPL', 'Apache', 'None']
+        choices: ['MIT', 'BSD', 'GPL', 'Apache', 'None']
     },
     {
         type: 'input',
