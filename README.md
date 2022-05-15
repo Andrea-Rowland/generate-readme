@@ -16,3 +16,5 @@ If you have any questions about this project you may reach me below at: </br>
 andreadhaag@gmail.com</br>
 You can check out my GitHub link below: </br>
 https://github.com/Andrea-Rowland
+
+![web-screenshot](/assets/images/running-node.JPG)git
