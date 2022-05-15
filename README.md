@@ -1,17 +1,17 @@
 # Generate README
-##Description
+## Description
 To assist in creating README files
 ##Table of Contents
 undefined
-##Installation
+## Installation
 You need to install inquirer and download all of the files.
-##Usage
+## Usage
 You can run the program by typing node index.js in your terminal
-##Credits
+## Credits
 undefined
-##License
+## License
 MIT
-##Questions
+## Questions
 If you have any questions about this project you may reach me below at: </br>
 andreadhaag@gmail.com</br>
 You can check out my GitHub link below: </br>
