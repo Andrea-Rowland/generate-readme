@@ -17,4 +17,7 @@ andreadhaag@gmail.com</br>
 You can check out my GitHub link below: </br>
 https://github.com/Andrea-Rowland
 
+Link to walkthrough:
+https://drive.google.com/file/d/1WFjHLPjvIBEHpbXZHJd0cs4K762asm2f/view
+
 ![web-screenshot](/assets/running-node.JPG)
