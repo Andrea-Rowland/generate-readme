@@ -65,6 +65,11 @@ ${data.usage}
 ${data.credits}
 ##License
 ${data.license}
+##Questions
+If you have any questions about this project you may reach me below at: </br>
+${data.email}</br>
+You can check out my GitHub link below: </br>
+https://github.com/${data.github}
 `;
 }
 

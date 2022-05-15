@@ -1,13 +1,18 @@
-# Generate Readme
+# Generate README
 ##Description
-sdflkj
+To assist in creating README files
 ##Table of Contents
 undefined
 ##Installation
-sdflk
+You need to install inquirer and download all of the files.
 ##Usage
-sdflkj
+You can run the program by typing node index.js in your terminal
 ##Credits
 undefined
 ##License
 MIT
+##Questions
+If you have any questions about this project you may reach me below at: </br>
+andreadhaag@gmail.com</br>
+You can check out my GitHub link below: </br>
+https://github.com/Andrea-Rowland

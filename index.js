@@ -42,7 +42,17 @@ const questions = [
     {
         type: 'input',
         name: 'contribute',
-        message: 'who worked on this?'
+        message: 'Who worked on this?'
+    },
+    {
+        type: 'input',
+        name: 'email',
+        message: 'What is your work email?',
+    },
+    {
+        type: 'input',
+        name: 'github',
+        message: 'What is your github username?'
     }
 ];
 
